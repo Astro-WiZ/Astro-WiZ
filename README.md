@@ -33,17 +33,5 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-WiZ&layout=compact&theme=radical" alt="Top Languages" width="400px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astro-WiZ&theme=radical" alt="Streak Stats" width="400px" />
-    </td>
-  </tr>
-</table>
+ 
 
-## :trophy: GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Astro-WiZ&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
-
----
