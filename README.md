@@ -3,12 +3,6 @@
 
 ---
 
-### ⚡ About Me
-
-I'm a backend developer with a focus on building scalable, performant APIs and services using **Node.js**, **Express**, and **PostgreSQL**. I enjoy writing clean code and building efficient systems. When I’m not coding, I’m usually experimenting with Linux or learning more about backend architecture.
-
----
-
 ### 🛠️ Core Tech Stack
 
 - ⚙️ **Backend**:  
@@ -39,6 +33,12 @@ I'm a backend developer with a focus on building scalable, performant APIs and s
 
 - 🐧 **OS & Dev Environment**:  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### ⚡ About Me
+
+I'm a backend developer with a focus on building scalable, performant APIs and services using **Node.js**, **Express**, and **PostgreSQL**. I enjoy writing clean code and building efficient systems. When I’m not coding, I’m usually experimenting with Linux or learning more about backend architecture.
 
 ---
 
