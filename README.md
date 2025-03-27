@@ -1,11 +1,11 @@
-<h1 align="center">Hey there 👋, I'm Astro-WiZ</h1>
-<h3 align="center">Backend Developer | Node.js & Django| Linux Enthusiast</h3>
+<h1 align="center">👋 Hey there, I'm Sagar Thapa (Astro-WiZ)</h1>
+<h3 align="center">Beginner Backend Developer | Node.js & Django | Linux Enthusiast</h3>
 
 ---
 
 ### ⚡ About Me
 
-I'm a backend developer with a strong focus on building scalable, performant APIs and services using **Node.js**, **Express**, and **PostgreSQL**. I enjoy writing clean code and building efficient systems. When I’m not coding, I’m usually experimenting with Linux or learning more about backend architecture.
+I'm a backend developer with a focus on building scalable, performant APIs and services using **Node.js**, **Express**, and **PostgreSQL**. I enjoy writing clean code and building efficient systems. When I’m not coding, I’m usually experimenting with Linux or learning more about backend architecture.
 
 ---
 
@@ -42,30 +42,53 @@ I'm a backend developer with a strong focus on building scalable, performant API
 
 ---
 
-### 🌱 Currently Focused On
+### 🎯 Currently Focused On
 
 - Building REST APIs with Node.js & Express  
 - Managing complex schemas in PostgreSQL  
-- Optimizing backend performance and scalability  
-- Secure and production-ready backend setups  
-- Automating development workflows on Linux
+- Learning Django deeply  
+- Automating development workflows on Linux  
+- Writing clean, maintainable backend code
+
+---
+
+### 🧠 Skill Icons
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,py,django,js,html,css,bootstrap,git,linux,debian,ubuntu,vim" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Astro-WiZ&show_icons=true&theme=radical" alt="Astro-WiZ's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astro-WiZ&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Astro-WiZ&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astro-WiZ&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-WiZ&layout=compact&theme=radical" width="60%" />
 </p>
 
 ---
 
-### 📫 Let’s Connect
+### 📬 Connect with Me
 
-I’m always open to collaboration or contributing to cool backend projects.  
-🔗 [GitHub](https://github.com/Astro-WiZ)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagarthapa808/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/__sagar._.tgod__/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
+  <a href="https://www.sagarthapa808.com.np/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website" />
+  </a>
+</p>
 
 ---
 
-*Clean code. Strong backend. Built for scale.*
+<p align="center"><i>Clean code. Strong backend. Built for growth. 🚀</i></p>
