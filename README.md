@@ -45,9 +45,7 @@ I'm a backend developer with a focus on building scalable, performant APIs and s
 ### 🎯 Currently Focused On
 
 - Building REST APIs with Node.js & Express  
-- Managing complex schemas in PostgreSQL  
-- Learning Django deeply  
-- Automating development workflows on Linux  
+- Managing complex schemas in PostgreSQL   
 - Writing clean, maintainable backend code
 
 ---
