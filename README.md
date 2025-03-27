@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Sagar Thapa (Astro-WiZ)</h1>
-<h3 align="center">Beginner Backend Developer | Node.js & Django | Linux Enthusiast</h3>
+<h3 align="center">Backend Developer | Node.js & Django | Linux Enthusiast</h3>
 
 ---
 
