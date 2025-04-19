@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Sagar Thapa (Astro-WiZ)</h1>
+<h1 align="center">👋 Hey there, I'm Sagar Thapa (Sagar-808)</h1>
 <h3 align="center">Backend Developer | Node.js & Django | Linux Enthusiast</h3>
 
 ---
@@ -63,12 +63,12 @@ I'm a backend developer with a focus on building scalable, performant APIs and s
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Astro-WiZ&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astro-WiZ&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagar-808&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-808&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-WiZ&layout=compact&theme=radical" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-808&layout=compact&theme=radical" width="60%" />
 </p>
 
 ---
